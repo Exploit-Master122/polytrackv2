@@ -1,3 +1,3 @@
-# https://blobby-boi.github.io/gunspin/
+# https://blobby-boi.github.io/polytrack/
 ## Polytrack
 An alternative link to play Polytrack!
