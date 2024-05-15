@@ -1,2 +1,3 @@
-# polytrack
-Copy of Polytrack, originally made by kodub.
+# https://blobby-boi.github.io/gunspin/
+## Polytrack
+An alternative link to play Polytrack!
